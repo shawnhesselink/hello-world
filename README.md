@@ -1,3 +1,3 @@
 # hello-world
 First repository
-I am truly awesomest.
+I am trying to push this from a new computer.
